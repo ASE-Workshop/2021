@@ -2,7 +2,7 @@
 title: Home
 ---
 
-Willkomen zum 18. Workshop Automotive Software Engineering!
+Willkommen zum 18. Workshop Automotive Software Engineering!
 {: style="color:black; font-size: 180%; text-align: center;"}
 
 [Software Engineering 2021](https://se-2021.tu-bs.de/) - 22.02.2021 - Virtuelles Format
