@@ -2,33 +2,19 @@
 title: Home
 ---
 
-# Workshop Template!
+## Motivation
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+Wie seine Vorgänger setzt sich der 18. Workshop Automotive Software Engineering mit der Problematik der Softwareentwicklung im Automobilbereich und folglich mit dafür geeigneten Methoden, Techniken und Werkzeugen auseinander. Mit zunehmend vernetzten Fahrzeugen, modernen Fahrerassistenzfunktionen und den Herausforderungen des vollautomatisierten Fahrens spielt die Automobilsoftware heutzutage mehr denn je eine wichtige Rolle. Neben der stetig ansteigenden Komplexität müssen immer strengere Anforderungen an Zuverlässigkeit, Sicherheit (Security und Safety) und Datenschutz (Privacy) erfüllt werden. Weiterhin spielt die ablenkungsfreie und intuitive Bedienung der Fahrzeugapplikationen mittels Sprachsteuerung eine immer größere Rolle. Der Trend zur Vernetzung hat das Fahrzeug längst erreicht. Das Autofahren wird somit durch voranschreitende „digitale Kulturen“ verändert: Dienste wie WhatsApp, Skype oder sogar Facebook werden in naher Zukunft im Fahrzeug integriert sein und dann von den Nutzern während der Fahrt bedient werden können. In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für moderne Fahrzeuge sind erwünscht.
 
-A minimal Jekyll theme for creating workshop websites.
 
-*Add your workshop abstract here!*
+## Ziele
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für moderne Fahrzeuge sind erwünscht. Der Workshop richtet sich gleichermaßen an Forscher\*innen, Entwickler\*innen und Anwender\*innen aus der Automobilindustrie sowie an Wissenschaftler\*innen aus Forschungsinstituten und Hochschulen, die im Gebiet Automotive Software Engineering arbeiten. Im Fokus stehen traditionell weniger theoretische, als vielmehr praxisnahe Arbeiten.
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+## Organisation
+[Prof. Dr. Andreas Vogelsang](https://cs.uni-koeln.de/sse), Universität zu Köln, Software and Systems Engineering <br/>
+[Prof. Dr. Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), TU Braunschweig, Institut für Softwaretechnik und Fahrzeuginformatik <br/>
+[Prof. Dr. Steffen Helke](http://www.sichere-softwaresysteme.de), Fachhochschule Südwestfalen, Sichere Softwaresysteme <br/>
+[Patrick Ebel](https://cs.uni-koeln.de/en/sse/team/patrick-ebel), Universität zu Köln <br/>
 
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
->
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
+Die Organisation erfolgt in enger Abstimmung mit der [GI-Fachgruppe Automotive Software Engineering](http://fg-ase.gi.de/), die den ASE-Workshop seit vielen Jahren veranstaltet. 
