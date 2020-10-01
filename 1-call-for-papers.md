@@ -5,8 +5,6 @@ nav: true
 
 In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für Automobile und Nutzfahrzeuge sind erwünscht. Beispiele für Themen sind:
 
----
-
 > - Architekturen, Schnittstellen und Technologien für die Fahrzeugvernetzung
 > - Architekturen und Methoden zur Entwicklung von Fahrerassistenz- und autonomen Fahrfunktionen
 > - Apps im Fahrzeug
@@ -20,7 +18,6 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 > - Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
 > - e-mobility
 
----
 
 Die Einreichung für den Workshop (4-8 Seiten) erfolgt über das Konferenz-Management-System EasyChair.
 
