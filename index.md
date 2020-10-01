@@ -2,8 +2,9 @@
 title: Home
 ---
 
+18. Workshop Automotive Software Engineering
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
-# <p align="center">18. Workshop Automotive Software Engineering</p>
 ### <p align="center">[Software Engineering 2021](https://se-2021.tu-bs.de/) - 22.02.2021 - Virtuelles Format</p>
 
 
