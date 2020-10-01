@@ -1,6 +1,9 @@
 ---
 title: Home
 ---
+#18. Workshop Automotive Software Engineering
+
+{% include figure.html img="braunschweig.jpg" alt="intro image here" width="75%" %}
 
 ## Motivation
 
