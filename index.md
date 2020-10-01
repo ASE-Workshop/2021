@@ -1,7 +1,9 @@
 ---
 title: Home
 ---
-# 18. Workshop Automotive Software Engineering
+
+
+<p align="center"># 18. Workshop Automotive Software Engineering</p>
 
 {% include figure.html img="braunschweig.jpg" alt="intro image here" width="80%" %}
 
