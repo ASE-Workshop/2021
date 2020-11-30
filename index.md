@@ -28,6 +28,6 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 [Prof. Dr. Andreas Vogelsang](https://cs.uni-koeln.de/sse), Universität zu Köln, Software and Systems Engineering <br/>
 [Prof. Dr. Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), TU Braunschweig, Institut für Softwaretechnik und Fahrzeuginformatik <br/>
 [Prof. Dr. Steffen Helke](http://www.sichere-softwaresysteme.de), Fachhochschule Südwestfalen, Sichere Softwaresysteme <br/>
-[Patrick Ebel](https://cs.uni-koeln.de/en/sse/team/patrick-ebel), Universität zu Köln <br/>
+[Patrick Ebel](https://cs.uni-koeln.de/en/sse/team/patrick-ebel), Universität zu Köln, Software and Systems Engineering  <br/>
 
 Die Organisation erfolgt in enger Abstimmung mit der [GI-Fachgruppe Automotive Software Engineering](http://fg-ase.gi.de/), die den ASE-Workshop seit vielen Jahren veranstaltet. 
