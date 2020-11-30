@@ -4,7 +4,7 @@ nav: true
 ---
 
 Prof. Dr. Paula Herber, Universität Münster\
-Verena Klös, Technische Universität Berlin\
+Dr. Verena Klös, Technische Universität Berlin\
 Prof. Dr. Stefan Kugele, Technische Hochschule Ingolstadt\
 Dr. Thomas Noack, Datendeuter\
 Prof. Dr. Dirk Nowotka, Universität Kiel\
