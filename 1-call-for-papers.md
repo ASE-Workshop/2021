@@ -19,10 +19,10 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 > - e-mobility
 
 
-Die Einreichung für den Workshop (4-8 Seiten) erfolgt über das Konferenz-Management-System EasyChair.
+Die Einreichung für den Workshop (8-16 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2021).
 
 Einreichungen können auf Deutsch oder Englisch erfolgen. Allerdings müssen mindestens 50% der Beiträge englischsprachig sein, um bei den CEUR Workshop-Proceedings publiziert zu werden. Aus diesem Grund werden englischsprachige Beiträge bevorzugt.
 
-Ferner sind die IEEE-Formatvorgaben (2-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem PeerReview durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE2021 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
+Ferner sind die [GI LNI Formatvorlagen](https://gi.de/service/publikationen/lni#panel-2270-0) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem PeerReview durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE2021 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
 
 Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2021@easychair.org
