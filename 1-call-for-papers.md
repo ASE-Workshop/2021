@@ -5,21 +5,29 @@ nav: true
 
 In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für Automobile und Nutzfahrzeuge sind erwünscht. Beispiele für Themen sind:
 
-> - Architekturen, Schnittstellen und Technologien für die Fahrzeugvernetzung
-> - Architekturen und Methoden zur Entwicklung von Fahrerassistenz- und autonomen Fahrfunktionen
-> - Apps im Fahrzeug
-> - Big Data für intelligente Fahrzeuge
-> - Entwicklungsprozesse für Software im Fahrzeug
-> - Standardisierte Softwarekomponenten, sowie Baukästen für die Entwicklung von innovativen Applikationen
-> - Varianten- und Konfigurationsmanagement
-> - Evolution und die Aktualisierung von Software im Betrieb
-> - Qualitätssicherung sowie Analyse der funktionalen und nicht-funktionalen Eigenschaften
-> - Sicherheitsaspekte (Security und Safety)   
-> - Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
-> - e-mobility
+- Architekturen, Schnittstellen und Technologien für die Fahrzeugvernetzung
+- Architekturen und Methoden zur Entwicklung von Fahrerassistenz- und autonomen Fahrfunktionen
+- Apps im Fahrzeug
+- Big Data für intelligente Fahrzeuge
+- Entwicklungsprozesse für Software im Fahrzeug
+- Standardisierte Softwarekomponenten, sowie Baukästen für die Entwicklung von innovativen Applikationen
+- Varianten- und Konfigurationsmanagement
+- Evolution und die Aktualisierung von Software im Betrieb
+- Qualitätssicherung sowie Analyse der funktionalen und nicht-funktionalen Eigenschaften
+- Sicherheitsaspekte (Security und Safety)   
+- Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
+- e-mobility
 
 
 Die Einreichung für den Workshop (8-16 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2021).
+
+***
+__Wichtige Termine__\
+Einreichungsfrist: 13.12.2020\
+Benachrichtigungen: 10.01.2021\
+Finale Version: 31.01.2021
+***
+
 
 Einreichungen können auf Deutsch oder Englisch erfolgen. Allerdings müssen mindestens 50% der Beiträge englischsprachig sein, um bei den CEUR Workshop-Proceedings publiziert zu werden. Aus diesem Grund werden englischsprachige Beiträge bevorzugt.
 
