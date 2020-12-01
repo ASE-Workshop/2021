@@ -19,7 +19,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - e-mobility
 
 
-Die Einreichung für den Workshop (8-16 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2021).
+Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2021).
 
 ***
 __Wichtige Termine__\
