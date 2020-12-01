@@ -25,7 +25,7 @@ Die Einreichung für den Workshop (8-16 Seiten) erfolgt über das Konferenz-Mana
 __Wichtige Termine__\
 Einreichungsfrist: 13.12.2020\
 Benachrichtigungen: 10.01.2021\
-Finale Version: 31.01.2021
+Finale Version: 31.01.2021\
 ***
 
 
