@@ -30,7 +30,7 @@ table.GeneratedTable thead {
 
 ## Session 1 (13:30 - 15:00 Uhr)
 
-<body>
+
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
@@ -56,7 +56,7 @@ table.GeneratedTable thead {
         
 ## Session 2 (15:30-17:00 Uhr)
 
-<body>
+
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
