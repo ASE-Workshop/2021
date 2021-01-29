@@ -26,7 +26,7 @@ table.GeneratedTable thead {
 }
 </style>
 
-### Session1
+### Session 1
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
@@ -53,8 +53,7 @@ table.GeneratedTable thead {
       <td>Cell</td>
       <td>Cell</td>
     </tr>
-  </tbody>
-</table>
+
 
 
 
