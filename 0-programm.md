@@ -28,8 +28,6 @@ table.GeneratedTable thead {
 </style>
 </head>
 
-## Session 1 (13:30 - 15:00 Uhr)
-
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
