@@ -2,6 +2,7 @@
 title: Programm
 nav: true
 ---
+<head>
 <!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
 <style>
 table.GeneratedTable {
@@ -25,9 +26,11 @@ table.GeneratedTable thead {
   background-color: #c0c0c0;
 }
 </style>
+</head>
 
 ### Session 1
 
+<body>
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
@@ -54,6 +57,6 @@ table.GeneratedTable thead {
       <td>Cell</td>
     </tr>
 
-
+<body\>
 
 
