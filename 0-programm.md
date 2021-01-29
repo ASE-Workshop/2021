@@ -2,7 +2,11 @@
 title: Programm
 nav: true
 ---
-
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 
 ## Session 1 (13:30 - 15:00 Uhr)
