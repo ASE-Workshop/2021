@@ -2,6 +2,9 @@
 title: Programm
 nav: true
 ---
+
+Im Folgenden finden Sie einen Überblick über das Programm. Der Workshop wird über ein Zoom-Meeting ablaufen für welches Sie die Zugangsdaten von der Konferenzorganisation zugeschickt bekommen werden.
+
 <head>
 <!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
 <style>
@@ -44,7 +47,8 @@ table.GeneratedTable thead {
     </tr>
     <tr>
       <td>13:35-14:30</td>
-      <td>Keynote: Prof. Dr.-Ing. Markus Maurer <br/>  <b>Das inhärente Risiko autonomer Straßenfahrzeuge<b>
+      <td>Keynote: Prof. Dr.-Ing. Markus Maurer <br/>  <b>Das inhärente Risiko autonomer Straßenfahrzeuge<b> <br/> <sup> Autonomem Fahren wohnt ein inhärentes Risiko inne, das sich verringern nicht aber ganz eliminieren lässt. Markus Maurer motiviert dieses Risiko aus langjährigen Forschungs- und Entwicklungsarbeiten an automatisierten und assistierten Fahrzeugen. Die Risiken ergeben sich aus der Komplexität der Aufgabe in einer offenen Welt und der Komplexität der technische Systeme. Diese Bestandsaufnahme eint inzwischen die Expert*innen im Thema; Lösungsansätze sind noch nicht etabliert.
+Maurer skizziert zwei Entwicklungsparadigmen, die die Entwicklung von sicheren autonomen Fahrzeugen unterstützen sollen: Die wertebasierte Entwicklung und Safety-By-Design.<sup>
     <tr>
       <td>14:30-15:00</td>
       <td>Jan Steffen Becker <br/> <b>Model Checking Amalthea with Spin<b> <br/> <sup>Although the Amalthea meta-model has emerged in the past years to an industrially adopted exchange format for (also safety-critical) embedded software architectures, model checking has been seldom applied to Amalthea models so far. This work presents a simple and extensible translation approach from Amalthea to Promela models for analysis with the widely used Spin model checker. This is a first step towards applying standard stae-of-the-art model checkers to Amalthea.<sup>
