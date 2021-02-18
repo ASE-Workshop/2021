@@ -5,6 +5,11 @@ nav: true
 
 Im Folgenden finden Sie einen Überblick über das Programm. Der Workshop wird über ein Zoom-Meeting ablaufen für welches Sie die Zugangsdaten von der Konferenzorganisation zugeschickt bekommen werden.
 
+### Über unseren Keynote Speaker Prof. Dr.-Ing. Markus Maurer
+Markus Maurer studierte von 1987-1993 Elektrotechnik an der TU München. Im Jahr 2000 wurde er an der Universität der Bundeswehr zum Thema „Flexible Automatisierung von Straßenfahrzeugen mit Rechnersehen“ promoviert. Bei der Audi AG verantwortete er die Serienentwicklung von Systemen zur Abstandsregelung (ACC) und zur Anhaltewegverkürzung (AWV) und verschiedene Forschungsaktivitäten (Automatische Notbremse, Heading Control). Seit dem Jahr 2008 erforscht er als Professor für „Elektronische Fahrzeugsysteme“ an der TU Braunschweig Systeme für das automatisierte Fahren. In den letzten Jahren geht seine Forschungsgruppe vom inhärenten Risiko autonomer Straßenfahrzeuge aus. Sie erforscht und entwickelt Konzepte, Methoden und Algorithmen, um dieses Risiko für die Gesellschaft beherrschbar zu machen.
+
+### Programm
+
 <head>
 <!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
 <style>
